@@ -33,6 +33,7 @@ var fmt = function(arr) {
     return arr.join(",");
 };
 
-var k = 117;
+var k = 167;
+
 console.log("firstkPrime(" + k + ")");
 console.log(fmt(firstkPrime(k)));
